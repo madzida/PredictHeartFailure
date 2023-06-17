@@ -1,4 +1,4 @@
-# Implementation-of-Machine-Learning-Model-to-Predict-Heart-Failure-Disease
+# Implementation of Machine Learning Model to Predict Heart Failure Disease
 Priprema i vizualizacija podataka
 
 Cilj ovog dijela projekta je upoznati se s podacima. Studenti trebaju pročitati odabrani članak
