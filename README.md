@@ -1,11 +1,8 @@
 # Implementation of Machine Learning Model to Predict Heart Failure Disease
 Priprema i vizualizacija podataka
+Cilj ovog projekta bio je pripremiti podatke, vizualizirati, replicirati i poboljšati rezultate znanstvenog članka 
+"Implementation of Machine Learning Model to Predict Heart Failure Disease", koji se može naći na ovoj 
+poveznici:[https://pdfs.semanticscholar.org/a74f/d8c51251e8c6126a1527e545bd78860a10f9.pdf](url) .
 
-Cilj ovog dijela projekta je upoznati se s podacima. Studenti trebaju pročitati odabrani članak
-te preuzeti podatke koji su korišteni. Nakon toga potrebno je upoznati se s podacima.
-Smjernice kako to učiniti su:
-- učitati podatke
-- provjeriti koji sve tipovi podataka postoje i prikazati deskriptivnu statistiku podataka
-- provjeriti postoje li nedostajuće vrijednosti i stršeće vrijednosti
-- vizualizirati podatke na nekoliko različitih načina (npr. histogram značajki, linijski
-dijagrami vremenskih nizova, točkasti dijagrami u ovisnosti o ciljnoj klasi, …)
+Podatkovni skup korišten pri implementaciji ovog projekta je "Heart Disease Cleveland UCI" , 
+dostupan na poveznici: [https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci](url) .
